@@ -8,3 +8,9 @@
 - Angel Snack
 - Server Side Sync Up
 - For The Smell Of It
+- Out Of Milk
+- Smells Like Soap
+- Jenny Doesn't Love You
+- South by Northwest
+- Scattered Kindness
+- Moses Was a Basket Case
