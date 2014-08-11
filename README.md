@@ -14,6 +14,6 @@
 - South by Northwest
 - Scattered Kindness
 - Moses Was a Basket Case
-- Weird Bear (GPL) (courtesy of @lawnsea)
-- Free As In Bear (courtesy of @lawnsea)
-- Thug Chicken (courtesy of @lawnsea)
+- Weird Bear (GPL) (courtesy of [@lawnsea](https://github.com/lawnsea))
+- Free As In Bear (courtesy of [@lawnsea](https://github.com/lawnsea))
+- Thug Chicken (courtesy of [@lawnsea](https://github.com/lawnsea))
