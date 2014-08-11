@@ -14,4 +14,4 @@
 - South by Northwest
 - Scattered Kindness
 - Moses Was a Basket Case
-- Weird Bear
+- Weird Bear (GPL)
