@@ -9,7 +9,7 @@
 - Server Side Sync Up
 - For The Smell Of It
 - Out Of Milk
-- Smells Like Soap
+- Stinks Like Soap
 - Jenny Doesn't Love You
 - South by Northwest
 - Scattered Kindness
