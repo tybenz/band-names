@@ -17,3 +17,4 @@
 - Weird Bear (GPL) (courtesy of [@lawnsea](https://github.com/lawnsea))
 - Free As In Bear (courtesy of [@lawnsea](https://github.com/lawnsea))
 - Thug Chicken (courtesy of [@lawnsea](https://github.com/lawnsea))
+- The Salt In Me
