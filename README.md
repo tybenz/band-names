@@ -19,3 +19,5 @@
 - Thug Chicken (courtesy of [@lawnsea](https://github.com/lawnsea))
 - The Salt In Me
 - C for Effort
+- Pudding Patrol
+- The Grape Escape
